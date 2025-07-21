@@ -51,10 +51,6 @@ This project aims to build a machine learning model that predicts salary categor
 - Include **more recent and diverse datasets** for better generalization.
 - Explore **deep learning models** and advanced ensembles.
 
----
-
-## 📸 Screenshots
-*(Include code snippets, confusion matrices, ROC curves, and feature importance plots here)*
 
 ---
 
